@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> 
 
 <a href='https://nextchat.club'>
   <img src="https://github.com/user-attachments/assets/83bdcc07-ae5e-4954-a53a-ac151ba6ccf3" width="1000" alt="icon"/>
